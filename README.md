@@ -26,7 +26,7 @@ Read the build file for the pre-requisites.
 The sample **cucumber feature file** is called **google_cheese.feature** and is located in the following directory:
 
 ```
-<LOCAL_CLONED_REPO_DIR>\src\test\resources\gradle\cucumber
+<LOCAL_CLONED_REPO_DIR>\src\test\resources\features\sample
 ```
 
 > The **LOCAL_CLONED_REPO_DIR** is where you've cloned this repository.
@@ -43,10 +43,10 @@ The sample **cucumber runner file** is called **CucumberRunner.java** and is loc
 
 # Sample Step Definition
 
-The sample **step definition file** is called **GoogleCheese.java** and is located in the following directory:
+The sample **step definition file** is called **GoogleCheeseStepDep.java** and is located in the following directory:
 
 ```
-<LOCAL_CLONED_REPO_DIR>\src\test\java\gradle\cucumber
+<LOCAL_CLONED_REPO_DIR>\src\test\java\gradle\cucumber\step
 ```
 
 > The **LOCAL_CLONED_REPO_DIR** is where you've cloned this repository.
