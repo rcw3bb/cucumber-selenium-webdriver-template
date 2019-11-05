@@ -1,10 +1,10 @@
 package gradle.cucumber.step;
 
+import cucumber.api.java.After;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
 import gradle.cucumber.domain.GoogleCheese;
-import io.cucumber.java.After;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class GoogleCheeseStepDep {

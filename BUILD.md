@@ -2,7 +2,9 @@
 
 ## Pre-requisite
 
-* Java 11 or above
+* Java 8
+
+* Maven 3.x
 
 * Firefox web browser
 
@@ -13,7 +15,7 @@
     archivaPassword=<VALID_PASSWORD>
     ```
     
-    > If you don't have access to my **archiva** update the **repositories section** in the **build.gradle** file from:
+    > If you don't have access to my **archiva**, update all the **repositories section** in the **build.gradle** file from **after cloning**:
     >
     > ```
     > repositories {
