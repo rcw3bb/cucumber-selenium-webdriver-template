@@ -15,7 +15,7 @@
     archivaPassword=<VALID_PASSWORD>
     ```
     
-    > If you don't have access to my **archiva**, update all the **repositories section** in the **build.gradle** file **after cloning** from:
+    > If you don't have access to my **archiva**, update all the **repositories section** in the **build.gradle** file **after cloning**, from:
     >
     > ```
     > repositories {
